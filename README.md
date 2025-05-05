@@ -1,6 +1,4 @@
-Sure, here's a README file template for your Django project:
 
----
 
 # Online Exam System
 
